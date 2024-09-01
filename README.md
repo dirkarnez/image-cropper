@@ -1,5 +1,5 @@
-[image-js-playground](https://dirkarnez.github.io/image-js-playground/)
-=======================================================================
+[image-cropper](https://dirkarnez.github.io/image-cropper/)
+===========================================================
 ### API documentation
 - [image-js 0.35.5 | Documentation](https://image-js.github.io/image-js/)
 
